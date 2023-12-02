@@ -20,7 +20,7 @@ This command line tool interacts with the "icanhazdadjoke" API to fetch jokes ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/joke-cli-tool.git
+   git clone https://https://github.com/adityagithubraj/joke_API
 
 
 2. Navigate to the project directory:
